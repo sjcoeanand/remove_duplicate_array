@@ -15,6 +15,7 @@ let uniqArray2 = (a) => {
 //ES6
 let uniqArray3 = new Set(arrayOne);
 
+
 //Output
 console.log("uniqArray1 ", uniqArray1(arrayOne));
 console.log("uniqArray2 ", uniqArray2(arrayOne));
